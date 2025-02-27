@@ -17,11 +17,12 @@ const About = ({ data }) => {
   return (
     <section id="about">
       <div className="row">
-        <div className="three columns">
+        <div className=" columns">
           <img
             className="profile-pic"
             src={profilepic}
             alt="Sonny's Profile Pic"
+            width={"300px"}
           />
         </div>
         <div className="nine columns main-col">

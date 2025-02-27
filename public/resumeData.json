@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Sibil Sarjam Soren",
+    "occupation": "Senior Software Engineer",
+    "description": "Making impact with code",
+    "image": "profilepic.png",
+    "bio": "I'm a 4-year experienced Full Stack Developer with a knack for building products that make a difference. My expertise spans both frontend and backend technologies, enabling me to craft comprehensive solutions from the ground up.",
+    "contactmessage": "Get in touch with me to discuss your project or just to say hi.",
+    "email": "soren.sibilsarjam@gmail.com",
+    "phone": "+91 8249352447",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Patia",
+      "city": "Bhubneshwar",
+      "state": "Odisha",
+      "zip": "751024"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCl0bhwBhpoT6bT-95PsEIbg",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/profile.php?id=61565341901851",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/sibilsarjamsoren/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/sibilsarjamsoren/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/SibilSoren",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +48,30 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Centurion University",
+        "degree": "Bachelor's Degree, Mechanical Engineering",
+        "graduated": "July 2018",
+        "description": "Graduated with 8.33 CGPA"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Accenture",
+        "title": "Senior Analyst",
+        "years": "November 2024 - Present",
+        "description": "Developing and maintaining robust backend services using Node.js and Express.js for financial applications"
+      },
+      {
+        "company": "Team Geek Solutions",
+        "title": "Software Developer",
+        "years": "December 2023 - November 2024",
+        "description": "Worked on Evaluate.ai platform, a web-based platform for evaluating and comparing products."
+      },
+      {
+        "company": "Newgen Software Technologies",
+        "title": "Senior Software Design Engineer",
+        "years": "January 2022 - December 2023",
+        "description": "Worked on NewgenOne Platform, in IFormDesigner team to develop and maintain the IFormDesigner platform."
       }
     ],
     "skills": [
@@ -68,8 +80,12 @@
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "NextJs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "60%"
       },
       {
         "name": "Git",
@@ -88,34 +104,32 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "TravelPlanner.ai (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "travelplanner.png",
+        "url": "https://travelplanner-ai.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "CrackMate.in (NextJS JS & NodeJS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "crackmate.png",
+        "url": "https://crackmate.in/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Sibil is an exceptional full-stack developer. His ability to tackle complex problems and deliver robust solutions has been invaluable to our team. His expertise in React and Node.js helped us deliver our projects ahead of schedule.",
+        "user": "Rahul Sharma, Project Lead"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Working with Sibil was a great experience. His deep understanding of both frontend and backend technologies, combined with his collaborative approach, made him an essential team member. He consistently delivers high-quality code.",
+        "user": "Priya Patel, Senior Developer"
+      },
+      {
+        "text": "Sibil's dedication to writing clean, maintainable code and his ability to mentor junior developers sets him apart. His contributions to our financial applications have been crucial to our success.",
+        "user": "Kunal Kumar, Engineering Manager"
       }
     ]
   }

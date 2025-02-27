@@ -19,7 +19,7 @@ const Footer = ({ data }) => {
         <div className="twelve columns">
           <ul className="social-links">{networks}</ul>
 
-          <ul className="copyright">
+          <ul className="copyright" style={{ display: "none" }}>
             <li>
               Made by{" "}
               <a title="PAPA" href="http://www.papareact.com/">
