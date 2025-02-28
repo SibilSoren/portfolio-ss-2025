@@ -20,7 +20,7 @@ Next, you will need to run the following command in the Terminal to clone the re
 
 ## 3. Install Dependancies
 
-Next, you need to install all the dependancies using:
+Next, you need to install all the dependancies using1:
 
 `npm install`
 
